@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T00:17:46.945Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.57 Whale/3.14.133.23 Safari/537.36" etag="oFF_7YJVVFpOG51rVTe-" version="17.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-11T00:22:01.367Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.57 Whale/3.14.133.23 Safari/537.36" etag="G2xX9RW2L7u6lwrfCM--" version="17.4.2" type="github">
   <diagram id="6QoY84IZz6heyTm1pI4c" name="Page-1">
-    <mxGraphModel dx="420" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1030" dy="1178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         <mxCell id="Vmk6o_5EaxXtRdIN7juW-10" value="&lt;span style=&quot;font-size: 24px&quot;&gt;VBOX(Hypervisor)&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="150" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Vmk6o_5EaxXtRdIN7juW-11" value="HTTPD&lt;br&gt;SSHD" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Vmk6o_5EaxXtRdIN7juW-11" value="&lt;font style=&quot;font-size: 18px&quot;&gt;HTTPD&lt;br&gt;SSHD&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="259" width="360" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Vmk6o_5EaxXtRdIN7juW-12" value="&lt;span style=&quot;font-size: 24px&quot;&gt;CentOS7XFCE(Guest)&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
@@ -174,6 +174,9 @@
         </mxCell>
         <mxCell id="lKzzbTVzRoBPSNrLa1HE-3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" parent="1" vertex="1">
           <mxGeometry x="560" y="290" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7LNUpRUC4olmsU9IoaUj-1" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;HostOnly IP 192.168.56.X&lt;/span&gt;&lt;/div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;NAT IP 10.0.0.X&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="130" y="870" width="360" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
