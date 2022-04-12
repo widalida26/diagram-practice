@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T08:13:52.526Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="0Viptsr7zp0Hf4Oo_Vui" version="17.4.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-12T08:17:09.506Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="AacB0jILjm9GfrsW9zmy" version="17.4.3" type="github" pages="5">
   <diagram id="6QoY84IZz6heyTm1pI4c" name="NAT">
     <mxGraphModel dx="1455" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -756,7 +756,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="NAT_Gateway" id="MyFoZzT19zYIPSrudIfC">
-    <mxGraphModel dx="946" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1577" dy="1035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="LjMz9OwFke7FuvdcB0v6-0" />
         <mxCell id="LjMz9OwFke7FuvdcB0v6-1" parent="LjMz9OwFke7FuvdcB0v6-0" />
@@ -860,12 +860,6 @@
             <mxPoint x="804.72" y="430.45000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LjMz9OwFke7FuvdcB0v6-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;endArrow=none;endFill=0;" edge="1" parent="LjMz9OwFke7FuvdcB0v6-1" source="LjMz9OwFke7FuvdcB0v6-19" target="LjMz9OwFke7FuvdcB0v6-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="830" y="430" as="sourcePoint" />
-            <mxPoint x="804.72" y="430.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LjMz9OwFke7FuvdcB0v6-26" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=24;" vertex="1" parent="LjMz9OwFke7FuvdcB0v6-1">
           <mxGeometry x="940" y="408" width="80" height="44" as="geometry" />
         </mxCell>
@@ -886,17 +880,17 @@
         <mxCell id="et-hjMdlZbuYzNi7CQ6A-1" value="&lt;span style=&quot;font-size: 20px&quot;&gt;NAT G/W&lt;br&gt;DHCP&lt;br&gt;DNS&lt;br&gt;HAproxy&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="LjMz9OwFke7FuvdcB0v6-1">
           <mxGeometry x="550" y="274" width="100" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="et-hjMdlZbuYzNi7CQ6A-3" value="Server" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server;fontSize=12;" vertex="1" parent="LjMz9OwFke7FuvdcB0v6-1">
-          <mxGeometry x="407" y="274" width="50" height="15" as="geometry" />
+        <mxCell id="et-hjMdlZbuYzNi7CQ6A-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;WEB01&lt;/font&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server;fontSize=12;" vertex="1" parent="LjMz9OwFke7FuvdcB0v6-1">
+          <mxGeometry x="411" y="282" width="50" height="15" as="geometry" />
         </mxCell>
         <mxCell id="et-hjMdlZbuYzNi7CQ6A-5" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l2_switch;fillColor=#FAFAFA;strokeColor=#005073;fontSize=12;" vertex="1" parent="LjMz9OwFke7FuvdcB0v6-1">
           <mxGeometry x="410" y="404" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="et-hjMdlZbuYzNi7CQ6A-10" value="SQL Server" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.sql_workbench;" vertex="1" parent="LjMz9OwFke7FuvdcB0v6-1">
-          <mxGeometry x="270" y="270" width="50.5" height="50.5" as="geometry" />
+          <mxGeometry x="259.75" y="398.5" width="50.5" height="50.5" as="geometry" />
         </mxCell>
-        <mxCell id="et-hjMdlZbuYzNi7CQ6A-11" value="File Server" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.fsx_for_windows_file_server;" vertex="1" parent="LjMz9OwFke7FuvdcB0v6-1">
-          <mxGeometry x="270" y="360" width="54" height="54" as="geometry" />
+        <mxCell id="et-hjMdlZbuYzNi7CQ6A-12" value="&lt;font style=&quot;font-size: 18px&quot;&gt;WEB02&lt;br&gt;NFS&lt;/font&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server;fontSize=12;" vertex="1" parent="LjMz9OwFke7FuvdcB0v6-1">
+          <mxGeometry x="410" y="526" width="50" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
