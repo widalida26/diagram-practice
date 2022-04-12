@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T02:27:20.927Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.57 Whale/3.14.133.23 Safari/537.36" etag="c0apukF_mlVNfXVSGtBM" version="17.4.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-12T02:27:29.722Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.57 Whale/3.14.133.23 Safari/537.36" etag="TaU5Lj7V24g__Gb1652A" version="17.4.2" type="github" pages="4">
   <diagram id="6QoY84IZz6heyTm1pI4c" name="NAT">
     <mxGraphModel dx="1164" dy="1324" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -358,7 +358,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="NATnetwork_HostOnly" id="1mOnH5KGs-ZPXEHQC4Hc">
-    <mxGraphModel dx="400" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="711" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="PRVYpcZJtHcIoW_Chflu-0" />
         <mxCell id="PRVYpcZJtHcIoW_Chflu-1" parent="PRVYpcZJtHcIoW_Chflu-0" />
@@ -503,7 +503,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PRVYpcZJtHcIoW_Chflu-38" value="Member2" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;fontSize=18;" vertex="1" parent="PRVYpcZJtHcIoW_Chflu-1">
-          <mxGeometry x="880" y="711" width="88.57" height="62" as="geometry" />
+          <mxGeometry x="865.71" y="712" width="88.57" height="62" as="geometry" />
         </mxCell>
         <mxCell id="PRVYpcZJtHcIoW_Chflu-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=#F19C99;endArrow=none;endFill=0;strokeColor=#7EA6E0;" edge="1" parent="PRVYpcZJtHcIoW_Chflu-1" source="PRVYpcZJtHcIoW_Chflu-40" target="PRVYpcZJtHcIoW_Chflu-20">
           <mxGeometry relative="1" as="geometry">
