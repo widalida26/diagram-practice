@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T02:26:53.482Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.57 Whale/3.14.133.23 Safari/537.36" etag="5GFttl09r_18L4hvGhHb" version="17.4.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-12T02:27:20.927Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.57 Whale/3.14.133.23 Safari/537.36" etag="c0apukF_mlVNfXVSGtBM" version="17.4.2" type="github" pages="4">
   <diagram id="6QoY84IZz6heyTm1pI4c" name="NAT">
     <mxGraphModel dx="1164" dy="1324" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -358,7 +358,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="NATnetwork_HostOnly" id="1mOnH5KGs-ZPXEHQC4Hc">
-    <mxGraphModel dx="853" dy="971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="400" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="PRVYpcZJtHcIoW_Chflu-0" />
         <mxCell id="PRVYpcZJtHcIoW_Chflu-1" parent="PRVYpcZJtHcIoW_Chflu-0" />
@@ -497,7 +497,7 @@
         <mxCell id="7Ppc1B9p5KR2K011QHV_-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=none;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="PRVYpcZJtHcIoW_Chflu-1" source="PRVYpcZJtHcIoW_Chflu-38" target="PRVYpcZJtHcIoW_Chflu-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7Ppc1B9p5KR2K011QHV_-8" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=none;endArrow=none;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=0.5;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="PRVYpcZJtHcIoW_Chflu-1" source="PRVYpcZJtHcIoW_Chflu-38" target="7Ppc1B9p5KR2K011QHV_-0">
+        <mxCell id="7Ppc1B9p5KR2K011QHV_-8" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=none;endArrow=none;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=0.5;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;strokeColor=#7EA6E0;" edge="1" parent="PRVYpcZJtHcIoW_Chflu-1" source="PRVYpcZJtHcIoW_Chflu-38" target="7Ppc1B9p5KR2K011QHV_-0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="924.2849999999999" y="599" as="targetPoint" />
           </mxGeometry>
@@ -546,7 +546,7 @@
         <mxCell id="PRVYpcZJtHcIoW_Chflu-49" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;22&lt;/span&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=24;labelBackgroundColor=none;fontColor=#F19C99;" vertex="1" parent="PRVYpcZJtHcIoW_Chflu-1">
           <mxGeometry x="750" y="447" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Ppc1B9p5KR2K011QHV_-0" value="&lt;br&gt;Switch" style="shape=switch;whiteSpace=wrap;html=1;hachureGap=4;fontSize=12;fontColor=none;" vertex="1" parent="PRVYpcZJtHcIoW_Chflu-1">
+        <mxCell id="7Ppc1B9p5KR2K011QHV_-0" value="Switch" style="shape=switch;whiteSpace=wrap;html=1;hachureGap=4;fontSize=12;fontColor=none;" vertex="1" parent="PRVYpcZJtHcIoW_Chflu-1">
           <mxGeometry x="900" y="420.71" width="20" height="18.57" as="geometry" />
         </mxCell>
         <mxCell id="7Ppc1B9p5KR2K011QHV_-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;endArrow=none;endFill=0;" edge="1" parent="PRVYpcZJtHcIoW_Chflu-1" source="PRVYpcZJtHcIoW_Chflu-19" target="7Ppc1B9p5KR2K011QHV_-0">
