@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T06:14:31.571Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.57 Whale/3.14.133.23 Safari/537.36" etag="lrzST4XWAAH-RFXWuh2e" version="17.4.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-13T06:14:51.659Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.57 Whale/3.14.133.23 Safari/537.36" etag="fpVheGruzL7Cvs44zTEV" version="17.4.3" type="github" pages="5">
   <diagram id="6QoY84IZz6heyTm1pI4c" name="NAT">
     <mxGraphModel dx="900" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -904,10 +904,10 @@
           <mxGeometry x="470" y="126.45" width="76.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ssHCso1XOEoIW-wf4Zvf-19" value="enp0s8&lt;br&gt;172.31.0.1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeWidth=1;fillColor=default;" vertex="1" parent="ssHCso1XOEoIW-wf4Zvf-13">
-          <mxGeometry x="220" y="133.5" width="70.25" height="40.5" as="geometry" />
+          <mxGeometry x="217" y="133.5" width="70.25" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="ssHCso1XOEoIW-wf4Zvf-31" value="enp0s3&lt;br&gt;192.168.0.96" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeWidth=1;fillColor=default;" vertex="1" parent="ssHCso1XOEoIW-wf4Zvf-13">
-          <mxGeometry x="392" y="133.5" width="73" height="40.5" as="geometry" />
+          <mxGeometry x="393" y="133.5" width="73" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="ssHCso1XOEoIW-wf4Zvf-34" value="192.168.0.1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeWidth=1;fillColor=default;" vertex="1" parent="LjMz9OwFke7FuvdcB0v6-1">
           <mxGeometry x="869" y="408" width="71" height="40.5" as="geometry" />
