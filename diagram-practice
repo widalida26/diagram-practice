@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T04:44:13.982Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.57 Whale/3.14.133.23 Safari/537.36" etag="qf06JuoEaLdEtFCMooEB" version="17.4.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-13T04:44:41.748Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.57 Whale/3.14.133.23 Safari/537.36" etag="0Vm-pobxSVwX08yT8tsQ" version="17.4.3" type="github" pages="5">
   <diagram id="6QoY84IZz6heyTm1pI4c" name="NAT">
     <mxGraphModel dx="900" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -756,7 +756,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="NAT_Gateway" id="MyFoZzT19zYIPSrudIfC">
-    <mxGraphModel dx="545" dy="357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="857" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="LjMz9OwFke7FuvdcB0v6-0" />
         <mxCell id="LjMz9OwFke7FuvdcB0v6-1" parent="LjMz9OwFke7FuvdcB0v6-0" />
@@ -897,13 +897,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LjMz9OwFke7FuvdcB0v6-22" value="&lt;span style=&quot;font-size: 20px&quot;&gt;Bridge&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="ssHCso1XOEoIW-wf4Zvf-13" vertex="1">
-          <mxGeometry x="456.25" y="126.44999999999999" width="80" height="60" as="geometry" />
+          <mxGeometry x="466.25" y="126.44999999999999" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ssHCso1XOEoIW-wf4Zvf-19" value="enp0s8&lt;br&gt;10.0.0.1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeWidth=2;fillColor=default;" vertex="1" parent="ssHCso1XOEoIW-wf4Zvf-13">
           <mxGeometry x="230.5" y="133.5" width="59.75" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="ssHCso1XOEoIW-wf4Zvf-31" value="enp0s3&lt;br&gt;192.168.0.96" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeWidth=2;fillColor=default;" vertex="1" parent="ssHCso1XOEoIW-wf4Zvf-13">
-          <mxGeometry x="385" y="133.5" width="73" height="40.5" as="geometry" />
+          <mxGeometry x="391" y="133.5" width="73" height="40.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
