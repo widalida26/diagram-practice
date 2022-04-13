@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T06:07:50.580Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.57 Whale/3.14.133.23 Safari/537.36" etag="b3T2SjVx1ZYQlKSqTGx3" version="17.4.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-13T06:08:28.814Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.57 Whale/3.14.133.23 Safari/537.36" etag="vCwv2JGIIH-5mKSaRPJ7" version="17.4.3" type="github" pages="5">
   <diagram id="6QoY84IZz6heyTm1pI4c" name="NAT">
     <mxGraphModel dx="900" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -756,7 +756,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="NAT_Gateway" id="MyFoZzT19zYIPSrudIfC">
-    <mxGraphModel dx="947" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="514" dy="337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="LjMz9OwFke7FuvdcB0v6-0" />
         <mxCell id="LjMz9OwFke7FuvdcB0v6-1" parent="LjMz9OwFke7FuvdcB0v6-0" />
@@ -809,7 +809,12 @@
           <mxGeometry x="1401.6399999999999" y="80" width="49.28" height="118.72" as="geometry" />
         </mxCell>
         <mxCell id="LjMz9OwFke7FuvdcB0v6-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=#F19C99;endArrow=none;endFill=0;strokeColor=#7EA6E0;" parent="LjMz9OwFke7FuvdcB0v6-1" source="LjMz9OwFke7FuvdcB0v6-42" target="LjMz9OwFke7FuvdcB0v6-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="786" y="288" />
+              <mxPoint x="835" y="288" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="LjMz9OwFke7FuvdcB0v6-42" value="Manager" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;fontSize=18;" parent="LjMz9OwFke7FuvdcB0v6-1" vertex="1">
           <mxGeometry x="741.4300000000001" y="129" width="88.57" height="62" as="geometry" />
