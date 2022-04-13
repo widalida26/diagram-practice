@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T04:44:41.748Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.57 Whale/3.14.133.23 Safari/537.36" etag="0Vm-pobxSVwX08yT8tsQ" version="17.4.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-13T04:45:29.374Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.57 Whale/3.14.133.23 Safari/537.36" etag="891sBbN-rM2M8UsuSIgK" version="17.4.3" type="github" pages="5">
   <diagram id="6QoY84IZz6heyTm1pI4c" name="NAT">
     <mxGraphModel dx="900" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -756,7 +756,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="NAT_Gateway" id="MyFoZzT19zYIPSrudIfC">
-    <mxGraphModel dx="857" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="643" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="LjMz9OwFke7FuvdcB0v6-0" />
         <mxCell id="LjMz9OwFke7FuvdcB0v6-1" parent="LjMz9OwFke7FuvdcB0v6-0" />
@@ -783,11 +783,6 @@
         </mxCell>
         <mxCell id="LjMz9OwFke7FuvdcB0v6-20" value="&lt;font style=&quot;font-size: 10px&quot;&gt;vNIC&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=24;" parent="LjMz9OwFke7FuvdcB0v6-1" vertex="1">
           <mxGeometry x="859" y="381" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LjMz9OwFke7FuvdcB0v6-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;endArrow=none;endFill=0;startArrow=none;" parent="LjMz9OwFke7FuvdcB0v6-1" target="LjMz9OwFke7FuvdcB0v6-26" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="804.72" y="430.5" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="LjMz9OwFke7FuvdcB0v6-24" value="SKB" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;" parent="LjMz9OwFke7FuvdcB0v6-1" vertex="1">
           <mxGeometry x="1230.52" y="410" width="50" height="30" as="geometry" />
