@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T00:29:37.923Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="2YEfthbkP3a0B46kVEiD" version="17.4.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-18T00:32:08.706Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="_FWBWhhLYoVOlV2pB4JV" version="17.4.5" type="github" pages="5">
   <diagram id="6QoY84IZz6heyTm1pI4c" name="NAT">
     <mxGraphModel dx="946" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -778,8 +778,8 @@
         <mxCell id="LjMz9OwFke7FuvdcB0v6-6" value="&lt;font style=&quot;font-size: 24px&quot;&gt;WIN10(HOST)&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="LjMz9OwFke7FuvdcB0v6-1" vertex="1">
           <mxGeometry x="130" y="80" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LjMz9OwFke7FuvdcB0v6-8" value="&lt;span style=&quot;font-size: 24px&quot;&gt;VBOX(Hypervisor)&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="LjMz9OwFke7FuvdcB0v6-1" vertex="1">
-          <mxGeometry x="180" y="150" width="210" height="20" as="geometry" />
+        <mxCell id="LjMz9OwFke7FuvdcB0v6-8" value="&lt;span style=&quot;font-size: 24px&quot;&gt;VBOX(Hypervisor) : My-Network&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="LjMz9OwFke7FuvdcB0v6-1" vertex="1">
+          <mxGeometry x="180" y="153" width="360" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LjMz9OwFke7FuvdcB0v6-20" value="&lt;font style=&quot;font-size: 10px&quot;&gt;vNIC&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=24;" parent="LjMz9OwFke7FuvdcB0v6-1" vertex="1">
           <mxGeometry x="815" y="385" width="40" height="40" as="geometry" />
