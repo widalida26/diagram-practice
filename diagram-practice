@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T09:08:17.275Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="FdGqAzl7FLCAi3C1m3zD" version="17.4.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-04-21T01:50:47.891Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="OdsE8xoTlOkhq7GZ4sXf" version="17.4.6" type="github" pages="7">
   <diagram id="6QoY84IZz6heyTm1pI4c" name="NAT">
-    <mxGraphModel dx="946" dy="621" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2102" dy="1380" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -961,7 +961,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="PJ1" id="rSvUahdANCv_IJbYmF8P">
-    <mxGraphModel dx="1720" dy="1025" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="887" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="D-Rk67Mc7Y04EfnxTJvR-0" />
         <mxCell id="D-Rk67Mc7Y04EfnxTJvR-1" parent="D-Rk67Mc7Y04EfnxTJvR-0" />
@@ -1168,6 +1168,41 @@
         </mxCell>
         <mxCell id="W7oOm7fYEnaXVgG4WICL-8" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;fontFamily=Comic Sans MS;" parent="D-Rk67Mc7Y04EfnxTJvR-1" vertex="1">
           <mxGeometry x="761" y="130" width="50" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of PJ1" id="6MzE_RMwMCjWquYKt0bv">
+    <mxGraphModel dx="996" dy="654" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="vEIP1IXttptetzYLCr0N-0" />
+        <mxCell id="vEIP1IXttptetzYLCr0N-1" parent="vEIP1IXttptetzYLCr0N-0" />
+        <mxCell id="HKhsKURP4C5ZZb_NY1rt-2" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;" edge="1" parent="vEIP1IXttptetzYLCr0N-1" source="aqpv-o4IFt9zu2OitkDz-0" target="HbsUnviJ19zPI1RULu7A-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aqpv-o4IFt9zu2OitkDz-0" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=user" vertex="1" parent="vEIP1IXttptetzYLCr0N-1">
+          <mxGeometry x="49" y="379" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="aqpv-o4IFt9zu2OitkDz-1" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans&quot; face=&quot;Noto Sans&quot;&gt;End User&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vEIP1IXttptetzYLCr0N-1">
+          <mxGeometry x="44" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HKhsKURP4C5ZZb_NY1rt-0" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Courier New;" edge="1" parent="vEIP1IXttptetzYLCr0N-1" source="5m4qFxLtcBaXp2XJJKZj-0" target="HbsUnviJ19zPI1RULu7A-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbsUnviJ19zPI1RULu7A-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/vivid/48/building-128.png;fontFamily=Courier New;" vertex="1" parent="vEIP1IXttptetzYLCr0N-1">
+          <mxGeometry x="164" y="300.5" width="81" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="HbsUnviJ19zPI1RULu7A-1" value="&lt;font face=&quot;Noto Sans&quot;&gt;ISP&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vEIP1IXttptetzYLCr0N-1">
+          <mxGeometry x="166" y="368" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HKhsKURP4C5ZZb_NY1rt-3" value="" style="group" vertex="1" connectable="0" parent="vEIP1IXttptetzYLCr0N-1">
+          <mxGeometry x="34" y="140" width="86" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="5m4qFxLtcBaXp2XJJKZj-0" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.primary_site" vertex="1" parent="HKhsKURP4C5ZZb_NY1rt-3">
+          <mxGeometry x="24" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5m4qFxLtcBaXp2XJJKZj-1" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans&quot; face=&quot;Noto Sans&quot;&gt;Data Center&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HKhsKURP4C5ZZb_NY1rt-3">
+          <mxGeometry y="46" width="86" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
