@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T07:24:14.398Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="roY0Dw-iZGR0WwKlsas7" version="17.4.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-04-21T07:25:29.814Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="a6MlbInxYUpsMn-Aj6HA" version="17.4.6" type="github" pages="7">
   <diagram id="6QoY84IZz6heyTm1pI4c" name="NAT">
     <mxGraphModel dx="2102" dy="1380" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1207,8 +1207,8 @@
         <mxCell id="HbsUnviJ19zPI1RULu7A-1" value="&lt;font face=&quot;Noto Sans&quot;&gt;ISP&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HKhsKURP4C5ZZb_NY1rt-4">
           <mxGeometry x="2" y="65.5" width="86" height="30.5" as="geometry" />
         </mxCell>
-        <mxCell id="4uaQxXCctZ4PuzqPzN0r-0" value="123.142.252.25" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeWidth=1;fillColor=default;" vertex="1" parent="vEIP1IXttptetzYLCr0N-1">
-          <mxGeometry x="320" y="301.75" width="88" height="40.5" as="geometry" />
+        <mxCell id="4uaQxXCctZ4PuzqPzN0r-0" value="123.142.252.25" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#F5F5F5;strokeWidth=1;fillColor=#000000;" vertex="1" parent="vEIP1IXttptetzYLCr0N-1">
+          <mxGeometry x="320" y="308.75" width="88" height="27.25" as="geometry" />
         </mxCell>
         <mxCell id="4uaQxXCctZ4PuzqPzN0r-1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Courier New;" edge="1" parent="vEIP1IXttptetzYLCr0N-1" target="4uaQxXCctZ4PuzqPzN0r-0">
           <mxGeometry relative="1" as="geometry">
