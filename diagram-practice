@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T07:43:32.173Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="XIcrh4gF5-9fXpDMWdry" version="17.4.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-04-21T07:43:56.969Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="EDpxNXBYeOA-rWH0t326" version="17.4.6" type="github" pages="7">
   <diagram id="6QoY84IZz6heyTm1pI4c" name="NAT">
     <mxGraphModel dx="2102" dy="1380" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1173,7 +1173,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of PJ1" id="6MzE_RMwMCjWquYKt0bv">
-    <mxGraphModel dx="823" dy="540" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="860" dy="565" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="vEIP1IXttptetzYLCr0N-0" />
         <mxCell id="vEIP1IXttptetzYLCr0N-1" parent="vEIP1IXttptetzYLCr0N-0" />
@@ -1232,6 +1232,9 @@
         </mxCell>
         <mxCell id="QwpxqFIOTrtJ_drdCg7G-3" value="&lt;font face=&quot;Noto Sans&quot;&gt;&lt;b&gt;NIC&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vEIP1IXttptetzYLCr0N-1">
           <mxGeometry x="571" y="342" width="86" height="30.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Bf6dwnyoMMG9FnZgKx-p-0" value="&lt;font face=&quot;Noto Sans&quot;&gt;&lt;b&gt;DHCP&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vEIP1IXttptetzYLCr0N-1">
+          <mxGeometry x="374.66" y="256" width="86" height="30.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
