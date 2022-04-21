@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T07:35:38.198Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="jsb06B5NjZ7suudMvPLQ" version="17.4.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-04-21T07:43:32.173Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="XIcrh4gF5-9fXpDMWdry" version="17.4.6" type="github" pages="7">
   <diagram id="6QoY84IZz6heyTm1pI4c" name="NAT">
     <mxGraphModel dx="2102" dy="1380" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1173,10 +1173,13 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of PJ1" id="6MzE_RMwMCjWquYKt0bv">
-    <mxGraphModel dx="901" dy="591" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="823" dy="540" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="vEIP1IXttptetzYLCr0N-0" />
         <mxCell id="vEIP1IXttptetzYLCr0N-1" parent="vEIP1IXttptetzYLCr0N-0" />
+        <mxCell id="QwpxqFIOTrtJ_drdCg7G-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;fontColor=#F5F5F5;" edge="1" parent="vEIP1IXttptetzYLCr0N-1" source="TpevYUhG2t08rDqwrCOk-0" target="YbGAqhXlomNnWyZ_dK25-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TpevYUhG2t08rDqwrCOk-0" value="192.168.0.1&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#F5F5F5;strokeWidth=1;fillColor=#000000;align=right;" vertex="1" parent="vEIP1IXttptetzYLCr0N-1">
           <mxGeometry x="415" y="312.8" width="116" height="18.25" as="geometry" />
         </mxCell>
@@ -1220,6 +1223,15 @@
         </mxCell>
         <mxCell id="HEvnHvXaw4_XCuj7G2tW-0" value="" style="sketch=0;html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_nat;labelBackgroundColor=none;fontFamily=Courier New;" vertex="1" parent="vEIP1IXttptetzYLCr0N-1">
           <mxGeometry x="351" y="262.84000000000003" width="133.32" height="118.16" as="geometry" />
+        </mxCell>
+        <mxCell id="pccwGeifE9mrIjP9IoBA-3" value="&lt;font face=&quot;Noto Sans&quot;&gt;&lt;b&gt;NAT&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vEIP1IXttptetzYLCr0N-1">
+          <mxGeometry x="375" y="358" width="86" height="30.5" as="geometry" />
+        </mxCell>
+        <mxCell id="YbGAqhXlomNnWyZ_dK25-0" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.nic;labelBackgroundColor=#000000;fontFamily=Courier New;fontColor=#F5F5F5;" vertex="1" parent="vEIP1IXttptetzYLCr0N-1">
+          <mxGeometry x="570" y="297.71" width="74.35" height="49.57" as="geometry" />
+        </mxCell>
+        <mxCell id="QwpxqFIOTrtJ_drdCg7G-3" value="&lt;font face=&quot;Noto Sans&quot;&gt;&lt;b&gt;NIC&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vEIP1IXttptetzYLCr0N-1">
+          <mxGeometry x="571" y="342" width="86" height="30.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
