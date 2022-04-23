@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-23T11:48:41.855Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="YI-pXSmr6LBN9VY-oYCr" version="17.4.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-04-23T11:56:13.142Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="V3Oy7viCyuTM5ZjAWDxP" version="17.4.6" type="github" pages="7">
   <diagram id="6QoY84IZz6heyTm1pI4c" name="NAT">
     <mxGraphModel dx="946" dy="621" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1173,18 +1173,18 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of PJ1" id="6MzE_RMwMCjWquYKt0bv">
-    <mxGraphModel dx="901" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="vEIP1IXttptetzYLCr0N-0" />
         <mxCell id="vEIP1IXttptetzYLCr0N-1" parent="vEIP1IXttptetzYLCr0N-0" />
         <mxCell id="UiVN33Goqzb4ZmzkMXUg-2" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#000000;fontFamily=Courier New;fontColor=#F5F5F5;fillColor=none;dashed=1;" parent="vEIP1IXttptetzYLCr0N-1" vertex="1">
-          <mxGeometry x="330" y="124" width="638" height="407" as="geometry" />
+          <mxGeometry x="330" y="110" width="638" height="421" as="geometry" />
         </mxCell>
         <mxCell id="pUVes4HJ3NE6I3SA197R-0" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#000000;fontFamily=Courier New;fontColor=#F5F5F5;fillColor=none;dashed=1;" vertex="1" parent="vEIP1IXttptetzYLCr0N-1">
-          <mxGeometry x="490" y="139" width="468" height="380" as="geometry" />
+          <mxGeometry x="490" y="150" width="468" height="369" as="geometry" />
         </mxCell>
         <mxCell id="AHVd5uWb6GMqiiSNysYW-0" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#000000;fontFamily=Courier New;fontColor=#F5F5F5;fillColor=none;dashed=1;" parent="vEIP1IXttptetzYLCr0N-1" vertex="1">
-          <mxGeometry x="564" y="160.5" width="384" height="334" as="geometry" />
+          <mxGeometry x="564" y="190" width="384" height="304.5" as="geometry" />
         </mxCell>
         <mxCell id="QwpxqFIOTrtJ_drdCg7G-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;fontColor=#F5F5F5;" parent="vEIP1IXttptetzYLCr0N-1" source="TpevYUhG2t08rDqwrCOk-0" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1256,13 +1256,11 @@
         <mxCell id="lIIhQMtx18OmaTid1YgZ-4" value="&lt;font face=&quot;Noto Sans&quot;&gt;&lt;b&gt;Bridge&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vEIP1IXttptetzYLCr0N-1">
           <mxGeometry x="500" y="310" width="65" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="BUHeWvs7B0O5JjuWwVxF-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="vEIP1IXttptetzYLCr0N-1" source="aQ5wce_ChBhwGqKiGmRw-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="663" y="323" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="aQ5wce_ChBhwGqKiGmRw-1" value="&lt;font color=&quot;#ffffff&quot;&gt;enp0s3&lt;br&gt;192.168.0.122&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#007FFF;strokeColor=none;" vertex="1" parent="vEIP1IXttptetzYLCr0N-1">
           <mxGeometry x="563" y="304" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eRqIZO9TJas-rofFy6iG-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=16;fontColor=#000000;" edge="1" parent="vEIP1IXttptetzYLCr0N-1" source="Ml6FrxOPG1z9xBTzPZQ3-2" target="aQ5wce_ChBhwGqKiGmRw-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ml6FrxOPG1z9xBTzPZQ3-2" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_linux;rounded=0;sketch=0;fontColor=#000000;" vertex="1" parent="vEIP1IXttptetzYLCr0N-1">
           <mxGeometry x="666.52" y="296.4" width="57.2" height="55.2" as="geometry" />
@@ -1288,11 +1286,14 @@
         <mxCell id="DrSYAnaM7FPtEwRN5TlO-1" value="DNS&lt;br&gt;Database" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontColor=#000000;" vertex="1" parent="vEIP1IXttptetzYLCr0N-1">
           <mxGeometry x="850.9959322033899" y="339" width="63.60796610169491" height="54.5" as="geometry" />
         </mxCell>
-        <mxCell id="eQxkVZ9svKXWHLYTK3OJ-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/door-128.png;rounded=0;shadow=0;sketch=0;fontColor=#000000;strokeColor=default;fillColor=#007FFF;" vertex="1" parent="vEIP1IXttptetzYLCr0N-1">
-          <mxGeometry x="379" y="92" width="44" height="44" as="geometry" />
+        <mxCell id="eQxkVZ9svKXWHLYTK3OJ-1" value="&lt;font face=&quot;Noto Sans&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px&quot;&gt;ROOM&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vEIP1IXttptetzYLCr0N-1">
+          <mxGeometry x="380" y="84" width="86" height="30.5" as="geometry" />
         </mxCell>
-        <mxCell id="eQxkVZ9svKXWHLYTK3OJ-1" value="&lt;font face=&quot;Noto Sans&quot;&gt;&lt;b&gt;ROOM&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vEIP1IXttptetzYLCr0N-1">
-          <mxGeometry x="423" y="98.75" width="86" height="30.5" as="geometry" />
+        <mxCell id="v5HnuX11AUOlBgBbqliI-0" value="&lt;font face=&quot;Noto Sans&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;WIN10(HOST)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vEIP1IXttptetzYLCr0N-1">
+          <mxGeometry x="533" y="122.5" width="86" height="30.5" as="geometry" />
+        </mxCell>
+        <mxCell id="c4R91RUCW11d40prPxrm-4" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font face=&quot;Noto Sans&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px&quot;&gt;VBOX(Hypervisor) : My-Network&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vEIP1IXttptetzYLCr0N-1">
+          <mxGeometry x="601" y="160.5" width="260" height="30.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
