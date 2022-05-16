@@ -1,46 +1,118 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T07:10:30.240Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="_RBE73pwebs8T55G9R7M" version="18.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-16T07:25:46.662Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="523sy3Elg9_uAHpFH_09" version="18.0.5" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="455" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="757" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NpPDBCKIDcGBt-j40q-6-1" value="영화코드번호" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="645" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NpPDBCKIDcGBt-j40q-6-3" value="등록번호" style="" vertex="1" parent="1">
-          <mxGeometry x="480" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="825" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NpPDBCKIDcGBt-j40q-6-4" value="" style="endArrow=ERmany;html=1;rounded=0;endFill=0;startArrow=ERmany;startFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="170" as="sourcePoint" />
-            <mxPoint x="480" y="170" as="targetPoint" />
+            <mxPoint x="765" y="170" as="sourcePoint" />
+            <mxPoint x="825" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NpPDBCKIDcGBt-j40q-6-5" value="배우번호" style="" vertex="1" parent="1">
+        <mxCell id="NpPDBCKIDcGBt-j40q-6-5" value="배우" style="" vertex="1" parent="1">
           <mxGeometry x="120" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NpPDBCKIDcGBt-j40q-6-7" value="이름&#xa;성별&#xa;출생지&#xa;키&#xa;몸무게&#xa;혈액형" style="" vertex="1" parent="1">
-          <mxGeometry x="120" y="200" width="120" height="170" as="geometry" />
-        </mxCell>
         <mxCell id="NpPDBCKIDcGBt-j40q-6-8" value="제목&#xa;제작년도&#xa;제작국가&#xa;상영시간&#xa;개봉일자&#xa;제작사&#xa;배급사" style="" vertex="1" parent="1">
-          <mxGeometry x="300" y="200" width="120" height="170" as="geometry" />
+          <mxGeometry x="645" y="200" width="120" height="170" as="geometry" />
         </mxCell>
         <mxCell id="NpPDBCKIDcGBt-j40q-6-9" value="이름&#xa;성별&#xa;생년월일&#xa;출생지&#xa;학력사항" style="" vertex="1" parent="1">
-          <mxGeometry x="480" y="200" width="120" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="NpPDBCKIDcGBt-j40q-6-10" value="배우" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="110" width="60" height="30" as="geometry" />
+          <mxGeometry x="825" y="200" width="120" height="170" as="geometry" />
         </mxCell>
         <mxCell id="NpPDBCKIDcGBt-j40q-6-11" value="영화" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="110" width="60" height="30" as="geometry" />
+          <mxGeometry x="675" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NpPDBCKIDcGBt-j40q-6-12" value="감독" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="110" width="60" height="30" as="geometry" />
+          <mxGeometry x="855" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NpPDBCKIDcGBt-j40q-6-29" value="" style="endArrow=ERmany;html=1;rounded=0;endFill=0;startArrow=ERoneToMany;startFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="169.41" as="sourcePoint" />
-            <mxPoint x="300" y="169.41" as="targetPoint" />
+            <mxPoint x="585" y="169.41" as="sourcePoint" />
+            <mxPoint x="645" y="169.41" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NpPDBCKIDcGBt-j40q-6-30" value="배우번호" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="150" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NpPDBCKIDcGBt-j40q-6-31" value="생년월일" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="59.760000000000005" y="70" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NpPDBCKIDcGBt-j40q-6-32" value="출생지" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="70" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NpPDBCKIDcGBt-j40q-6-37" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="180" as="sourcePoint" />
+            <mxPoint x="60" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NpPDBCKIDcGBt-j40q-6-38" value="키" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="230" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NpPDBCKIDcGBt-j40q-6-39" value="몸무게" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="230" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NpPDBCKIDcGBt-j40q-6-40" value="학력사항" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="230" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NpPDBCKIDcGBt-j40q-6-47" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="NpPDBCKIDcGBt-j40q-6-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="170" as="sourcePoint" />
+            <mxPoint x="340" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NpPDBCKIDcGBt-j40q-6-48" value="" style="endArrow=none;html=1;rounded=0;exitX=0.252;exitY=0.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120.00000000000001" y="140.18000000000006" as="sourcePoint" />
+            <mxPoint x="89.76" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NpPDBCKIDcGBt-j40q-6-49" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="NpPDBCKIDcGBt-j40q-6-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="140" as="sourcePoint" />
+            <mxPoint x="160" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NpPDBCKIDcGBt-j40q-6-52" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="230" as="sourcePoint" />
+            <mxPoint x="120" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NpPDBCKIDcGBt-j40q-6-54" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NpPDBCKIDcGBt-j40q-6-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="200" as="sourcePoint" />
+            <mxPoint x="180" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NpPDBCKIDcGBt-j40q-6-55" value="이름" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="60" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NpPDBCKIDcGBt-j40q-6-57" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="NpPDBCKIDcGBt-j40q-6-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="140" as="sourcePoint" />
+            <mxPoint x="190" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NpPDBCKIDcGBt-j40q-6-58" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="NpPDBCKIDcGBt-j40q-6-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="200" as="sourcePoint" />
+            <mxPoint x="99.75999999999999" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NpPDBCKIDcGBt-j40q-6-61" value="성별" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="60" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NpPDBCKIDcGBt-j40q-6-62" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="219.6" y="140" as="sourcePoint" />
+            <mxPoint x="219.6" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
